@@ -1,0 +1,1498 @@
+<!doctype html>
+<html lang="en">
+  <head>
+	<meta name="generator" content="Hugo 0.52" />
+    <meta charset="utf-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+<meta name="keywords" content="攀博网,自学编程,java基础教程,java分布式系统开发教程,二级c语言教程" />
+
+ 
+<meta name='description' content="攀博网（www.pbteach.com）致力于为编程人员分享优质的视频教程，提供专业的学习指导，我们希望学习者来到攀博网能学会一门IT技能，并在工作中应用。">
+
+
+<meta name="baidu-site-verification" content="3IJs8mGxdQ" />
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?dc6c9f312380d865887eb369b757dffa";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+<script data-ad-client="ca-pub-6795525502952619" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+
+
+   
+
+    <title>攀博网-自学编程优质资源分享网站</title>
+
+    
+    <link rel="stylesheet" href="/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <link href="http://www.pbteach.com/css/style.css" rel="stylesheet">
+
+    
+    <link href="http://www.pbteach.com/index.xml" rel="alternate" type="application/rss+xml" title="攀博网-自学编程优质资源分享网站" />
+    
+
+    
+
+    
+
+
+
+
+  </head>
+  <body>
+    
+      
+
+<header class="blog-header">  
+    <nav class="navbar navbar-expand-md navbar-dark bg-dark">
+        <a class="navbar-brand" href="/">
+            <font color="#FFFFFF">攀博网</font>
+
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false"
+            aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse justify-content-between" id="navbarNav">
+            <ul class="navbar-nav">
+                
+                
+                <li class="nav-item ">
+                    
+                        <a class="nav-link" href="/post/java_distribut/catalog/">Java互联网开发教程</a>
+                    
+                </li>
+                
+                <li class="nav-item ">
+                    
+                        <a class="nav-link" href="/post/javase/catalog/">Java基础教程</a>
+                    
+                </li>
+                
+                <li class="nav-item ">
+                    
+                        <a class="nav-link" href="/post/2c/download/">二级C语言教程</a>
+                    
+                </li>
+                
+                <li class="nav-item ">
+                    
+                        <a class="nav-link" href="/about/">关于我们</a>
+                    
+                </li>
+                
+                <li class="nav-item ">
+                    
+                        <a class="nav-link" href="/pay/">支付赞助</a>
+                    
+                </li>
+                
+                <li class="nav-item ">
+                    
+                        <a class="nav-link" href="/issues/">下载链接失效处理</a>
+                    
+                </li>
+                
+            </ul>
+            
+        </div>
+    </nav>
+</header>
+
+    
+
+    
+    <div class="container">
+      <div class="row">
+        <div class="col-12 col-lg-8 blog-main">
+
+          
+
+
+
+
+
+
+
+
+    
+        <article class="blog-post blog-post-list">
+    
+<a class="text-dark" href="/post/java_distribut/mongodb_quickstart/" target="_blank" >
+
+<img src="/post/java_distribut/mongodb_quickstart/mongo.jpg" class="post_img"/>
+
+</a>
+
+
+    <header>
+		
+        <h2 class="blog-post-title">
+    <a class="text-dark" href="/post/java_distribut/mongodb_quickstart/">MongoDB入门教程</a>
+</h2>
+
+        
+
+
+<div class="blog-post-date text-secondary">
+    
+        <time datetime="2020-01-02">Jan 2, 2020</time>
+    
+    
+</div>
+
+        
+<div class="blog-post-categories text-secondary">
+    <strong>教程分类:</strong>
+    
+        <a class="badge badge-primary" href="/categories/java_distribut">java_distribut</a>
+    
+</div>
+
+		
+<div class="blog-post-tags text-secondary">
+    <strong>标签:</strong>
+    
+        <a class="badge badge-primary" href="/tags/mongodb">MongoDB</a>
+    
+</div>
+
+		MongoDB 是 Nosql 系列数据库 ( 非关系型数据库 ) , 由C&#43;&#43;语言编写的，是一个基于分布式文件存储的开源数据库系统。MongoDB 将数据存储为一个文档，数据结构由键值(key=&gt;value)对组成。MongoDB 文档类似于 JSON 对象。字段值可以包含其他文档，数组及文档数组。
+    </header>
+    
+    
+    <p></p>
+   
+    
+</article>
+
+    
+
+
+
+    
+        <article class="blog-post blog-post-list">
+    
+<a class="text-dark" href="/article/devtools/docker_quickstart01/" target="_blank" >
+
+<img src="/article/devtools/docker_quickstart01/1578019650311.png" class="post_img"/>
+
+</a>
+
+
+    <header>
+		
+        <h2 class="blog-post-title">
+    <a class="text-dark" href="/article/devtools/docker_quickstart01/">Docker简明教程</a>
+</h2>
+
+        
+
+
+<div class="blog-post-date text-secondary">
+    
+        <time datetime="2020-01-01">Jan 1, 2020</time>
+    
+    
+</div>
+
+        
+		
+<div class="blog-post-tags text-secondary">
+    <strong>标签:</strong>
+    
+        <a class="badge badge-primary" href="/tags/docker">docker</a>
+    
+</div>
+
+		Docker 项目的目标是实现轻量级的操作系统虚拟化解决方案。 Docker 的基础是 Linux 容器（LXC）等技术。在 LXC 的基础上 Docker 进行了进一步的封装，让用户不需要去关心容器的管理，使得操作更为简便。
+    </header>
+    
+    
+    <p></p>
+   
+    
+</article>
+
+    
+
+
+
+    
+        <article class="blog-post blog-post-list">
+    
+<a class="text-dark" href="/article/framework/spring_cloud_alibaba_pro1/" target="_blank" >
+
+<img src="/article/framework/spring_cloud_alibaba_pro1/1571732038130.png" class="post_img"/>
+
+</a>
+
+
+    <header>
+		
+        <h2 class="blog-post-title">
+    <a class="text-dark" href="/article/framework/spring_cloud_alibaba_pro1/">Spring Cloud Alibaba 架构实战</a>
+</h2>
+
+        
+
+
+<div class="blog-post-date text-secondary">
+    
+        <time datetime="2019-12-23">Dec 23, 2019</time>
+    
+    
+</div>
+
+        
+		
+<div class="blog-post-tags text-secondary">
+    <strong>标签:</strong>
+    
+        <a class="badge badge-primary" href="/tags/framework">framework</a>
+    
+        <a class="badge badge-primary" href="/tags/springcloud">springcloud</a>
+    
+        <a class="badge badge-primary" href="/tags/alibaba">alibaba</a>
+    
+</div>
+
+		SpringCloud Alibaba是阿里巴巴公司基于Spring Cloud所开发的一套微服务框架集，本文阐述了SpringCloud Alibaba应用于生产实践的一种架构方案。
+    </header>
+    
+    
+    <p></p>
+   
+    
+</article>
+
+    
+
+
+
+    
+        <article class="blog-post blog-post-list">
+    
+<a class="text-dark" href="/article/framework/springsecurity_pro1/" target="_blank" >
+
+<img src="/article/framework/springsecurity_pro1/1568037393732.png" class="post_img"/>
+
+</a>
+
+
+    <header>
+		
+        <h2 class="blog-post-title">
+    <a class="text-dark" href="/article/framework/springsecurity_pro1/">Spring Security 分布式认证方案</a>
+</h2>
+
+        
+
+
+<div class="blog-post-date text-secondary">
+    
+        <time datetime="2019-12-23">Dec 23, 2019</time>
+    
+    
+</div>
+
+        
+		
+<div class="blog-post-tags text-secondary">
+    <strong>标签:</strong>
+    
+        <a class="badge badge-primary" href="/tags/framework">framework</a>
+    
+        <a class="badge badge-primary" href="/tags/springcloud">springcloud</a>
+    
+        <a class="badge badge-primary" href="/tags/springsecurity">SpringSecurity</a>
+    
+</div>
+
+		Spring Security是一个能够为基于Spring的企业应用系统提供声明式的安全访问控制解决方案的安全框架，本文阐述了Spring Security应用于分布式系统的实践方案。
+    </header>
+    
+    
+    <p></p>
+   
+    
+</article>
+
+    
+
+
+
+    
+        <article class="blog-post blog-post-list">
+    
+<a class="text-dark" href="/article/devtools/git_operation_idea1/" target="_blank" >
+
+<img src="/article/devtools/git_operation_idea1/1576197754680.png" class="post_img"/>
+
+</a>
+
+
+    <header>
+		
+        <h2 class="blog-post-title">
+    <a class="text-dark" href="/article/devtools/git_operation_idea1/">IDEA下Git使用教程</a>
+</h2>
+
+        
+
+
+<div class="blog-post-date text-secondary">
+    
+        <time datetime="2019-12-13">Dec 13, 2019</time>
+    
+    
+</div>
+
+        
+		
+<div class="blog-post-tags text-secondary">
+    <strong>标签:</strong>
+    
+        <a class="badge badge-primary" href="/tags/git">Git</a>
+    
+</div>
+
+		Git和IDEA是当前项目开发最流行的开发工具，如何在IDEA下使用Git控制代码的版本？本文带你学习最常用的方法。
+    </header>
+    
+    
+    <p></p>
+   
+    
+</article>
+
+    
+
+
+
+    
+        <article class="blog-post blog-post-list">
+    
+<a class="text-dark" href="/post/java_distribut/subject_freemarker/" target="_blank" >
+
+<img src="/post/java_distribut/subject_freemarker/1528820943975.png" class="post_img"/>
+
+</a>
+
+
+    <header>
+		
+        <h2 class="blog-post-title">
+    <a class="text-dark" href="/post/java_distribut/subject_freemarker/">燕青Freemarker视频教程</a>
+</h2>
+
+        
+
+
+<div class="blog-post-date text-secondary">
+    
+        <time datetime="2019-12-13">Dec 13, 2019</time>
+    
+    
+</div>
+
+        
+<div class="blog-post-categories text-secondary">
+    <strong>教程分类:</strong>
+    
+        <a class="badge badge-primary" href="/categories/java_distribut">java_distribut</a>
+    
+</div>
+
+		
+<div class="blog-post-tags text-secondary">
+    <strong>标签:</strong>
+    
+        <a class="badge badge-primary" href="/tags/java">java</a>
+    
+        <a class="badge badge-primary" href="/tags/freemarker">Freemarker</a>
+    
+        <a class="badge badge-primary" href="/tags/java_video">java_video</a>
+    
+</div>
+
+		FreeMarker 是一款 模板引擎： 即一种基于模板和要改变的数据， 并用来生成输出文本(HTML网页，电子邮件，配置文件，源代码等)的通用工具。 它不是面向最终用户的，而是一个Java类库，是一款程序员可以嵌入他们所开发产品的组件。
+    </header>
+    
+    
+    <p></p>
+   
+    
+</article>
+
+    
+
+
+
+    
+        <article class="blog-post blog-post-list">
+    
+<a class="text-dark" href="/article/devtools/zxing/" target="_blank" >
+
+<img src="/article/devtools/zxing/1577192063889.png" class="post_img"/>
+
+</a>
+
+
+    <header>
+		
+        <h2 class="blog-post-title">
+    <a class="text-dark" href="/article/devtools/zxing/">zxing生成二维码工具</a>
+</h2>
+
+        
+
+
+<div class="blog-post-date text-secondary">
+    
+        <time datetime="2019-12-02">Dec 2, 2019</time>
+    
+    
+</div>
+
+        
+		
+<div class="blog-post-tags text-secondary">
+    <strong>标签:</strong>
+    
+        <a class="badge badge-primary" href="/tags/java">java</a>
+    
+</div>
+
+		ZXing是一个开源的，用Java编写的多格式的1D / 2D条码图像处理库，使用ZXing可以生成、识别QR Code（二维码）、Data Matrix、EAN、UPC、Aztec等，本文介绍ZXing二维码处理的方法。
+    </header>
+    
+    
+    <p></p>
+   
+    
+</article>
+
+    
+
+
+
+    
+        <article class="blog-post blog-post-list">
+    
+<a class="text-dark" href="/article/framework/database_split/" target="_blank" >
+
+<img src="/article/framework/database_split/1571060231239.png" class="post_img"/>
+
+</a>
+
+
+    <header>
+		
+        <h2 class="blog-post-title">
+    <a class="text-dark" href="/article/framework/database_split/">彻底搞清分库分表（垂直分库，垂直分表，水平分库，水平分表）</a>
+</h2>
+
+        
+
+
+<div class="blog-post-date text-secondary">
+    
+        <time datetime="2019-12-02">Dec 2, 2019</time>
+    
+    
+</div>
+
+        
+		
+<div class="blog-post-tags text-secondary">
+    <strong>标签:</strong>
+    
+        <a class="badge badge-primary" href="/tags/framework">framework</a>
+    
+        <a class="badge badge-primary" href="/tags/database">database</a>
+    
+</div>
+
+		在系统设计阶段就应该根据业务耦合松紧来确定垂直分库，垂直分表方案，在数据量及访问压力不是特别大的情况，首先考虑缓存、读写分离、索引技术等方案。若数据量极大，且持续增长，再考虑水平分库水平分表方案。
+    </header>
+    
+    
+    <p></p>
+   
+    
+</article>
+
+    
+
+
+
+    
+        <article class="blog-post blog-post-list">
+    
+<a class="text-dark" href="/article/framework/framework_evolution/" target="_blank" >
+
+<img src="/article/framework/framework_evolution/1574762633237.png" class="post_img"/>
+
+</a>
+
+
+    <header>
+		
+        <h2 class="blog-post-title">
+    <a class="text-dark" href="/article/framework/framework_evolution/">软件架构的演变-单体架构，垂直架构，分布式架构，SOA架构和微服务架构的演变历程</a>
+</h2>
+
+        
+
+
+<div class="blog-post-date text-secondary">
+    
+        <time datetime="2019-12-01">Dec 1, 2019</time>
+    
+    
+</div>
+
+        
+		
+<div class="blog-post-tags text-secondary">
+    <strong>标签:</strong>
+    
+        <a class="badge badge-primary" href="/tags/framework">framework</a>
+    
+</div>
+
+		软件架构的发展经历了从单体架构、垂直架构、SOA架构到微服务架构的过程。
+    </header>
+    
+    
+</article>
+
+    
+
+
+
+    
+        <article class="blog-post blog-post-list">
+    
+<a class="text-dark" href="/post/java_distribut/nacos-discovery/" target="_blank" >
+
+<img src="/post/java_distribut/nacos-discovery/1571211595515.png" class="post_img"/>
+
+</a>
+
+
+    <header>
+		
+        <h2 class="blog-post-title">
+    <a class="text-dark" href="/post/java_distribut/nacos-discovery/">Spring Cloud Alibaba Nacos视频配套讲义（服务发现）</a>
+</h2>
+
+        
+
+
+<div class="blog-post-date text-secondary">
+    
+        <time datetime="2019-11-17">Nov 17, 2019</time>
+    
+    
+</div>
+
+        
+<div class="blog-post-categories text-secondary">
+    <strong>教程分类:</strong>
+    
+        <a class="badge badge-primary" href="/categories/java_distribut">java_distribut</a>
+    
+</div>
+
+		
+<div class="blog-post-tags text-secondary">
+    <strong>标签:</strong>
+    
+        <a class="badge badge-primary" href="/tags/java">java</a>
+    
+        <a class="badge badge-primary" href="/tags/framework">framework</a>
+    
+        <a class="badge badge-primary" href="/tags/nacos">Nacos</a>
+    
+</div>
+
+		Nacos是阿里的一个开源产品，它是针对微服务架构中的服务发现、配置管理、服务治理的综合型解决方案。
+    </header>
+    
+    
+    <p></p>
+   
+    
+</article>
+
+    
+
+
+
+
+
+
+<nav class="blog-pagination">
+    <ul class="pagination justify-content-center">
+        
+        <li class="page-item">
+            <a class="page-link" href="/" aria-label="First"><span aria-hidden="true">&laquo;&laquo;</span></a>
+        </li>
+        
+        <li class="page-item disabled">
+            <a class="page-link" href="" aria-label="Previous"><span aria-hidden="true">&laquo;</span></a>
+        </li>
+        
+        
+            
+            
+            
+            
+                
+                
+            
+            
+                <li class="page-item active">
+                    <a class="page-link" href="/">1</a>
+                </li>
+            
+        
+            
+            
+            
+            
+                
+                
+            
+            
+                <li class="page-item ">
+                    <a class="page-link" href="/page/2/">2</a>
+                </li>
+            
+        
+            
+            
+            
+            
+                
+                
+            
+            
+                <li class="page-item ">
+                    <a class="page-link" href="/page/3/">3</a>
+                </li>
+            
+        
+            
+            
+            
+            
+                
+                
+            
+            
+                <li class="page-item disabled">
+                    <span class="page-link" aria-hidden="true">&hellip;</span>
+                </li>
+            
+        
+            
+            
+            
+            
+                
+                
+            
+            
+        
+            
+            
+            
+            
+                
+                
+            
+            
+        
+            
+            
+            
+            
+                
+                
+            
+            
+        
+            
+            
+            
+            
+                
+                
+            
+            
+        
+            
+            
+            
+            
+                
+                
+            
+            
+        
+            
+            
+            
+            
+                
+                
+            
+            
+        
+            
+            
+            
+            
+                
+                
+            
+            
+        
+            
+            
+            
+            
+                
+                
+            
+            
+        
+            
+            
+            
+            
+                
+                
+            
+            
+        
+            
+            
+            
+            
+                
+                
+            
+            
+        
+            
+            
+            
+            
+                
+                
+            
+            
+        
+            
+            
+            
+            
+                
+                
+            
+            
+        
+            
+            
+            
+            
+                
+                
+            
+            
+        
+            
+            
+            
+            
+                
+                
+            
+            
+        
+            
+            
+            
+            
+                
+                
+            
+            
+        
+            
+            
+            
+            
+                
+                
+            
+            
+        
+            
+            
+            
+            
+                
+                
+            
+            
+        
+            
+            
+            
+            
+                
+                
+            
+            
+        
+            
+            
+            
+            
+                
+                
+            
+            
+        
+            
+            
+            
+            
+                
+                
+            
+            
+        
+            
+            
+            
+            
+                
+                
+            
+            
+        
+            
+            
+            
+            
+                
+                
+            
+            
+        
+            
+            
+            
+            
+                
+                
+            
+            
+        
+            
+            
+            
+            
+                
+                
+            
+            
+        
+            
+            
+            
+            
+                
+                
+            
+            
+        
+            
+            
+            
+            
+                
+                
+            
+            
+        
+            
+            
+            
+            
+                
+                
+            
+            
+                <li class="page-item ">
+                    <a class="page-link" href="/page/31/">31</a>
+                </li>
+            
+        
+        <li class="page-item ">
+            <a class="page-link" href="/page/2/" aria-label="Next"><span aria-hidden="true">&raquo;</span></a>
+        </li>
+        
+            <li class="page-item">
+                <a class="page-link" href="/page/31/" aria-label="Last"><span aria-hidden="true">&raquo;&raquo;</span></a>
+            </li>
+        
+    </ul>
+</nav>
+
+
+
+
+        </div>
+
+        <aside class="col-12 col-lg-3 ml-auto blog-sidebar">
+    
+        <script type="text/javascript">
+function closetoc(){
+document.getElementById('toc').style.display='none'
+document.getElementById('toc2').style.display=''
+}
+function opentoc(){
+document.getElementById('toc2').style.display='none'
+document.getElementById('toc').style.display=''
+}
+</script>
+    
+<section style="">
+   
+
+    
+        
+        <h5>技术文章</h5>
+        <p>
+            
+			
+            <a class="badge badge-primary" href="/article/devtools">开发工具箱</a>
+			
+			
+            
+			
+            <a class="badge badge-primary" href="/article/framework">系统架构</a>
+			
+			
+            
+			
+        </p>
+        
+    
+        
+        <h5>教程分类</h5>
+        <p>
+            
+			
+            <a class="badge badge-primary" href="/categories/2c">二级c语言</a>
+			
+			
+            
+			
+            <a class="badge badge-primary" href="/categories/java_distribut">java分布式系统开发</a>
+			
+			
+            
+			
+            <a class="badge badge-primary" href="/categories/javase">java基础</a>
+			
+			
+            
+			
+        </p>
+        
+    
+        
+        <h5>下载资源</h5>
+        <p>
+            
+			
+            <a class="badge badge-primary" href="/download/ai">人工智能</a>
+			
+			
+            
+			
+            <a class="badge badge-primary" href="/download/bigdata">大数据</a>
+			
+			
+            
+			
+            <a class="badge badge-primary" href="/download/c">c语言</a>
+			
+			
+            
+			
+            <a class="badge badge-primary" href="/download/database">数据库</a>
+			
+			
+            
+			
+            <a class="badge badge-primary" href="/download/devops">运维</a>
+			
+			
+            
+			
+            <a class="badge badge-primary" href="/download/framework">系统架构</a>
+			
+			
+            
+			
+            <a class="badge badge-primary" href="/download/java">java</a>
+			
+			
+            
+			
+            <a class="badge badge-primary" href="/download/tcpip">网络编程</a>
+			
+			
+            
+			
+        </p>
+        
+    
+        
+        <h5>标签</h5>
+        <p>
+            
+			
+			<a class="badge badge-primary" href="/tags/activiti">activiti</a>
+			
+			
+            
+			
+            <a class="badge badge-primary" href="/tags/ai">人工智能</a>
+			
+			
+            
+			
+            <a class="badge badge-primary" href="/tags/alibaba">阿里巴巴</a>
+			
+			
+            
+			
+			<a class="badge badge-primary" href="/tags/apollo">apollo</a>
+			
+			
+            
+			
+            <a class="badge badge-primary" href="/tags/bigdata">大数据</a>
+			
+			
+            
+			
+            <a class="badge badge-primary" href="/tags/c">c语言</a>
+			
+			
+            
+			
+            <a class="badge badge-primary" href="/tags/database">数据库</a>
+			
+			
+            
+			
+            <a class="badge badge-primary" href="/tags/datawarehouse">数据仓库</a>
+			
+			
+            
+			
+            <a class="badge badge-primary" href="/tags/devops">运维</a>
+			
+			
+            
+			
+			<a class="badge badge-primary" href="/tags/docker">docker</a>
+			
+			
+            
+			
+			<a class="badge badge-primary" href="/tags/elasticjob">elasticjob</a>
+			
+			
+            
+			
+			<a class="badge badge-primary" href="/tags/elasticsearch">elasticsearch</a>
+			
+			
+            
+			
+			<a class="badge badge-primary" href="/tags/elk">elk</a>
+			
+			
+            
+			
+			<a class="badge badge-primary" href="/tags/etl">etl</a>
+			
+			
+            
+			
+			<a class="badge badge-primary" href="/tags/fastdfs">fastdfs</a>
+			
+			
+            
+			
+			<a class="badge badge-primary" href="/tags/flum">flum</a>
+			
+			
+            
+			
+			<a class="badge badge-primary" href="/tags/framework">framework</a>
+			
+			
+            
+			
+			<a class="badge badge-primary" href="/tags/freemarker">freemarker</a>
+			
+			
+            
+			
+			<a class="badge badge-primary" href="/tags/git">git</a>
+			
+			
+            
+			
+			<a class="badge badge-primary" href="/tags/google">google</a>
+			
+			
+            
+			
+			<a class="badge badge-primary" href="/tags/hadoop">hadoop</a>
+			
+			
+            
+			
+			<a class="badge badge-primary" href="/tags/hbase">hbase</a>
+			
+			
+            
+			
+			<a class="badge badge-primary" href="/tags/hibernate">hibernate</a>
+			
+			
+            
+			
+            <a class="badge badge-primary" href="/tags/java">java</a>
+			
+			
+            
+			
+            <a class="badge badge-primary" href="/tags/java_project">java项目</a>
+			
+			
+            
+			
+            <a class="badge badge-primary" href="/tags/java_video">java视频</a>
+			
+			
+            
+			
+			<a class="badge badge-primary" href="/tags/jvm">jvm</a>
+			
+			
+            
+			
+			<a class="badge badge-primary" href="/tags/kafka">kafka</a>
+			
+			
+            
+			
+			<a class="badge badge-primary" href="/tags/kettle">kettle</a>
+			
+			
+            
+			
+			<a class="badge badge-primary" href="/tags/linux">linux</a>
+			
+			
+            
+			
+			<a class="badge badge-primary" href="/tags/lucene">lucene</a>
+			
+			
+            
+			
+			<a class="badge badge-primary" href="/tags/maven">maven</a>
+			
+			
+            
+			
+            <a class="badge badge-primary" href="/tags/microservice">微服务</a>
+			
+			
+            
+			
+            <a class="badge badge-primary" href="/tags/middleware">中间件</a>
+			
+			
+            
+			
+			<a class="badge badge-primary" href="/tags/mongodb">mongodb</a>
+			
+			
+            
+			
+			<a class="badge badge-primary" href="/tags/mybatis">mybatis</a>
+			
+			
+            
+			
+			<a class="badge badge-primary" href="/tags/mysql">mysql</a>
+			
+			
+            
+			
+			<a class="badge badge-primary" href="/tags/nacos">nacos</a>
+			
+			
+            
+			
+			<a class="badge badge-primary" href="/tags/netty">netty</a>
+			
+			
+            
+			
+			<a class="badge badge-primary" href="/tags/rabbitmq">rabbitmq</a>
+			
+			
+            
+			
+			<a class="badge badge-primary" href="/tags/redis">redis</a>
+			
+			
+            
+			
+			<a class="badge badge-primary" href="/tags/rocketmq">rocketmq</a>
+			
+			
+            
+			
+			<a class="badge badge-primary" href="/tags/scala">scala</a>
+			
+			
+            
+			
+			<a class="badge badge-primary" href="/tags/seata">seata</a>
+			
+			
+            
+			
+			<a class="badge badge-primary" href="/tags/sharding-jdbc">sharding-jdbc</a>
+			
+			
+            
+			
+			<a class="badge badge-primary" href="/tags/shiro">shiro</a>
+			
+			
+            
+			
+			<a class="badge badge-primary" href="/tags/solr">solr</a>
+			
+			
+            
+			
+			<a class="badge badge-primary" href="/tags/spark">spark</a>
+			
+			
+            
+			
+            <a class="badge badge-primary" href="/tags/spring">Spring</a>
+			
+			
+            
+			
+			<a class="badge badge-primary" href="/tags/springboot">springboot</a>
+			
+			
+            
+			
+			<a class="badge badge-primary" href="/tags/springcloud">springcloud</a>
+			
+			
+            
+			
+			<a class="badge badge-primary" href="/tags/springdata">springdata</a>
+			
+			
+            
+			
+			<a class="badge badge-primary" href="/tags/springmvc">springmvc</a>
+			
+			
+            
+			
+			<a class="badge badge-primary" href="/tags/springsecurity">springsecurity</a>
+			
+			
+            
+			
+			<a class="badge badge-primary" href="/tags/storm">storm</a>
+			
+			
+            
+			
+			<a class="badge badge-primary" href="/tags/struts2">struts2</a>
+			
+			
+            
+			
+            <a class="badge badge-primary" href="/tags/tcpip">网络编程</a>
+			
+			
+            
+			
+			<a class="badge badge-primary" href="/tags/tensorflow">tensorflow</a>
+			
+			
+            
+			
+			<a class="badge badge-primary" href="/tags/tomcat">tomcat</a>
+			
+			
+            
+			
+        </p>
+        
+    
+</section>
+    
+    
+        
+
+
+<section>
+    <h5>近期文章</h5>
+    <ol class="list-unstyled">
+        
+        <li>
+            <a href="/post/java_distribut/mongodb_quickstart/">MongoDB入门教程</a>
+        </li>
+        
+        <li>
+            <a href="/article/devtools/docker_quickstart01/">Docker简明教程</a>
+        </li>
+        
+        <li>
+            <a href="/article/framework/spring_cloud_alibaba_pro1/">Spring Cloud Alibaba 架构实战</a>
+        </li>
+        
+        <li>
+            <a href="/article/framework/springsecurity_pro1/">Spring Security 分布式认证方案</a>
+        </li>
+        
+        <li>
+            <a href="/article/devtools/git_operation_idea1/">IDEA下Git使用教程</a>
+        </li>
+        
+        <li>
+            <a href="/post/java_distribut/subject_freemarker/">燕青Freemarker视频教程</a>
+        </li>
+        
+    </ol>
+</section>
+
+    
+	
+        
+<section>
+    <h5>关注攀博</h5>
+    <ol class="list-unstyled">
+        <li>
+            <img src="/images/weixin.png" width=200 height=200/>
+        </li>
+    </ol>
+	 <h5>打赏</h5>
+	 <ol class="list-unstyled">
+        <li>
+            <img src="/images/weixinpay.png" width=200 height=200/>
+        </li>
+    </ol>
+</section>
+
+    
+	<script type="text/javascript">
+        (function() {
+            var s = "_" + Math.random().toString(36).slice(2);
+            document.write('<div style="" id="' + s + '"></div>');
+            (window.slotbydup = window.slotbydup || []).push({
+                id: "u5831937",
+                container: s
+            });
+        })();
+</script>
+
+</aside>
+
+      </div>
+    </div>
+    
+
+    
+      
+
+
+
+
+
+
+
+<footer class="blog-footer w-100">
+    <nav class="navbar navbar-dark bg-dark">
+        <p class="w-100 text-center">Copyright 2019，All Rights Reserved by 攀博网
+		<a href="http://www.beian.miit.gov.cn/" target="_blank">豫ICP备18041718号-2</a>
+		</p>
+       
+		<p class="w-100 text-center">免责声明：网站所有学习资源均从网上收集，如有侵犯版权请联系站长删除(pbteach@126.com，qq 3154464172)。</p>
+		 <p class="w-100 text-center"><a href="#">回到顶部</a>
+		<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? "https://" : "http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1277745871'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s23.cnzz.com/z_stat.php%3Fid%3D1277745871%26show%3Dpic1' type='text/javascript'%3E%3C/script%3E"));</script>
+		<script>
+(function(){
+    var bp = document.createElement('script');
+    var curProtocol = window.location.protocol.split(':')[0];
+    if (curProtocol === 'https') {
+        bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+    }
+    else {
+        bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+    }
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+</script>
+		</p>
+    </nav>
+	
+</footer>
+
+    
+
+    
+    
+    <script src="/js/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="/js/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+  </body>
+</html>
