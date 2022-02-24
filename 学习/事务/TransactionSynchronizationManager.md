@@ -1,0 +1,3 @@
+# TransactionSynchronizationManager
+
+​	在事务提交过后进行某一项或者某一系列的业务操作
